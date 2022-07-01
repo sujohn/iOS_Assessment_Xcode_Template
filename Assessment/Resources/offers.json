@@ -1,0 +1,174 @@
+{
+	"txnId": null,
+	"txnStatus": "200",
+	"message": "SUCCESS",
+	"offer_list": [{
+		"offer_type": "Specials",
+		"offer_detail": [{
+			"offer_id": "VOICE_12_MIN_ONNET_6HRS",
+			"offer_name": "12 Min + 1 MMS",
+			"offer_desc": "12 Min (any net) + 1 MMS.\r\nValidity : 6 hours.      ",
+			"amount": 7,
+			"validity": "6 Hours"
+		}]
+	}, {
+		"offer_type": "Internet",
+		"offer_detail": [{
+			"offer_id": "",
+			"offer_name": "3GB 67 taka",
+			"offer_desc": "3GB 67 taka ",
+			"amount": 67,
+			"validity": "3 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "35 MB",
+			"offer_desc": "35 MB for 3 Days at Tk 13 (Inclusive of SD+VAT+SC).",
+			"amount": 13,
+			"validity": "3 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "350MB ",
+			"offer_desc": "350MB for 3 Days at 33 Taka (Inclusive of SD+VAT+SC)   ",
+			"amount": 33,
+			"validity": "3 Days"
+		},  {
+			"offer_id": "",
+			"offer_name": "3GB",
+			"offer_desc": "3GB at 289 TK, 30 Days  ",
+			"amount": 289,
+			"validity": "30 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "10GB",
+			"offer_desc": "10GB at 198 Taka (Inclusive of SD + VAT + SC ) Valid for 7 Days (Activation + 6 Days). ",
+			"amount": 198,
+			"validity": "7 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "6GB",
+			"offer_desc": "6GB for 7 Days (Activation + 6 Days) ",
+			"amount": 148,
+			"validity": "7 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "1GB",
+			"offer_desc": "1GB at 189 TK, 30 Days   ",
+			"amount": 189,
+			"validity": "30 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "5GB",
+			"offer_desc": "5GB at 399 TK, 30 Days ",
+			"amount": 399,
+			"validity": "30 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "30GB",
+			"offer_desc": "30GB for 28 Days (activation day + 27 days ) at Tk 2436 (Inclusive of SD+VAT+SC). ",
+			"amount": 2436,
+			"validity": "28 Days"
+		}]
+	}, {
+		"offer_type": "Rate Cutters",
+		"offer_detail": [{
+			"offer_id": "",
+			"offer_name": "1 Poisha call rate",
+			"offer_desc": "1 Poisha/sec call rate + 7 MMS ",
+			"amount": 79,
+			"validity": "10 days"
+		}, {
+			"offer_id": "4032, 6011",
+			"offer_name": "1 Poisha call rate",
+			"offer_desc": "1 Poisha/sec call rate + 7 MMS ",
+			"amount": 209,
+			"validity": "60 days (current date +59)"
+		}, {
+			"offer_id": "",
+			"offer_name": "1 Poisha call rate",
+			"offer_desc": "1 Poisha/sec call rate + 7 MMS ",
+			"amount": 21,
+			"validity": "2 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "1 Poisha call rate",
+			"offer_desc": "1 Poisha/sec call rate + 7 MMS ",
+			"amount": 29,
+			"validity": "3 days"
+		}, {
+			"offer_id": "",
+			"offer_name": "1 Poisha call rate",
+			"offer_desc": "1 Poisha/sec call rate + 7 MMS ",
+			"amount": 49,
+			"validity": "7 day"
+		}]
+	}, {
+		"offer_type": "Voice",
+		"offer_detail": [{
+			"offer_id": "",
+			"offer_name": "100 Min",
+			"offer_desc": "100min-7 days @ TK.59 ",
+			"amount": 59,
+			"validity": "7 Days"
+		}, {
+			"offer_id": "MINBUNDLE6, MINIBUNDLEPRE6DYM",
+			"offer_name": "20 Min",
+			"offer_desc": "20 Min (any net) ",
+			"amount": 12,
+			"validity": "10 Hours"
+		}, {
+			"offer_id": "",
+			"offer_name": "70 min",
+			"offer_desc": "70 Min: Validity - 4 Days ",
+			"amount": 44,
+			"validity": "4 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "85 Min",
+			"offer_desc": "85 Min + 50 Anynet SMS: Validity - 7 Days   ",
+			"amount": 53,
+			"validity": "7 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "200 Min",
+			"offer_desc": "200 Min: Validity -10 Days  ",
+			"amount": 117,
+			"validity": "10 Days"
+		}, {
+			"offer_id": "500MIN_30DAYS",
+			"offer_name": "500 min",
+			"offer_desc": "500 Min: Validity - 30 Days ",
+			"amount": 288,
+			"validity": "30 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "40 Min",
+			"offer_desc": "40 Min: Validity - 24 Hrs         ",
+			"amount": 24,
+			"validity": "24 Hrs"
+		}, {
+			"offer_id": "",
+			"offer_name": "125 min",
+			"offer_desc": "125 Min: Validity - 7 Days ",
+			"amount": 78,
+			"validity": "7 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "160 min",
+			"offer_desc": "160 Min: Validity - 7 Days ",
+			"amount": 99,
+			"validity": "7 Days"
+		}, {
+			"offer_id": "",
+			"offer_name": "330 Min",
+			"offer_desc": "330 Min: Validity - 30 Days ",
+			"amount": 199,
+			"validity": "30 days"
+		}, {
+			"offer_id": "",
+			"offer_name": "23 min",
+			"offer_desc": "23 min GP",
+			"amount": 14,
+			"validity": "16 Hrs"
+		}]
+	}]
+}
